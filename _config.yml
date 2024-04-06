@@ -1,6 +1,6 @@
 title: Software engineer's blog # name of the site
 author: Diego andres de la cruz cruz # name of site's author
-email: @cruzcruzdiego # email of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://www.linkedin.com/in/cruzcruzdiego/ # root address of the site
 baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
